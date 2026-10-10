@@ -29,13 +29,18 @@ The dataset contains 2,000 sales records, including transaction dates, customer 
 - Frequency distribution of total sales.
 - Visual presentation of sales information.
 
-## Key Findings
+## Analysis Summary
 
-- Total recorded sales amounted to 2,563,977 in the analysed workbook.
-- The West region recorded the highest regional sales total at 690,224.
-- Stationery recorded the highest sales total among the listed product categories at 529,178.
+The project involved analysing sales transaction data to explore:
 
-*These figures reflect the workbook's existing pivot-table results.*
+- Differences in sales performance across regions.
+- Sales patterns across product categories.
+- Monthly transaction trends.
+- The distribution of transaction values.
+
+The analysis used Excel tools to organise, summarise and visualise data, with Power BI included in the project workflow.
+
+Detailed results and source files are not published while public-sharing permissions are being confirmed.
 
 ## Project Files
 
